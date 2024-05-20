@@ -8,18 +8,18 @@ The objective of Simon is to correctly repeat an increasingly long sequence of l
 
 ## Game Components:
 
-Game Board: Usually consists of four colored buttons (red, green, blue, and yellow).   
-Sequence Display: Lights up the buttons in a specific order which the player must memorize and replicate.   
-Sound Effects: Each button has a unique sound that plays when it lights up, aiding in the memorization process.  
-Score Counter: Keeps track of how many sequences the player has successfully completed.
+->Game Board: Usually consists of four colored buttons (red, green, blue, and yellow).   
+->Sequence Display: Lights up the buttons in a specific order which the player must memorize and replicate.   
+->Sound Effects: Each button has a unique sound that plays when it lights up, aiding in the memorization process.  
+->Score Counter: Keeps track of how many sequences the player has successfully completed.
 
 How to Play  
-Start the Game: The game begins by lighting up one of the four buttons randomly.   
-Player's Turn: The player must press the button that lit up.
-Sequence Progression: Each round, the game adds one more button to the sequence.  
-Repeating the Sequence: The player must replicate the entire sequence in the correct order.  
-Increasing Difficulty: The sequence gets progressively longer, making it more challenging to remember.  
-Game Over: If the player presses a button out of sequence, the game ends.
+->Start the Game: The game begins by lighting up one of the four buttons randomly.   
+->Player's Turn: The player must press the button that lit up.
+->Sequence Progression: Each round, the game adds one more button to the sequence.  
+->Repeating the Sequence: The player must replicate the entire sequence in the correct order.  
+->Increasing Difficulty: The sequence gets progressively longer, making it more challenging to remember.  
+->Game Over: If the player presses a button out of sequence, the game ends.
 
 Technologies Used
 
